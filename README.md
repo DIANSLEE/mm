@@ -5,3 +5,4 @@ The train.py in ./tools and config files are in the corresponding directory (./c
 ```bash
 python train.py
 ```
+[Guide](https://github.com/DIANSLEE/YOLOv9s-Multi/blob/main/README.md)
